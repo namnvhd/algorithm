@@ -1,0 +1,2 @@
+# KMP (Knuth-Morris-Pratt)
+
